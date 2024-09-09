@@ -1,12 +1,9 @@
+import Formulario from "./form";
 
-import Formulario from './form'
-
-function App() {
-
+function App(){
   return (
     <>
-      <Formulario/>
-      
+    <Formulario/>
     </>
   )
 }
